@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, SimpleX: [click]([LICENSE](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FU5wv8v0HvEM869lH0D7yE_y-3xuGqHpE%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA9aQznquMPtlZPneEhKmMfTE5A1ekm8ndJsE9o79qdXI%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion))
+For questions or feedback, SimpleX: [click](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FU5wv8v0HvEM869lH0D7yE_y-3xuGqHpE%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA9aQznquMPtlZPneEhKmMfTE5A1ekm8ndJsE9o79qdXI%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion)
 
 This version is more concise and focuses on essential information.
