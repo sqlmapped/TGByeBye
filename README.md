@@ -1,4 +1,5 @@
 # TGByeBye - Complaint Automation Tool
+![image](https://github.com/user-attachments/assets/99200cbf-1db2-4277-9430-20b73eb2eb62)
 
 ## Overview
 
