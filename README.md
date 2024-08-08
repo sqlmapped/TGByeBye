@@ -15,7 +15,7 @@ TGByeBye is a C# application for automating the process of sending complaints to
 1. **Run the Application**:
 
    ```sh
-   dotnet run
+   tgbyebye.exe
    ```
 
 2. **Follow the Prompts**:
