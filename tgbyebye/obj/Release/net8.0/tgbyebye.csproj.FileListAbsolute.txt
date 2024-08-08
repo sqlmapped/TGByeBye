@@ -1,0 +1,14 @@
+C:\PuProjects\tgbyebye\tgbyebye\bin\Release\net8.0\tgbyebye.exe
+C:\PuProjects\tgbyebye\tgbyebye\bin\Release\net8.0\tgbyebye.deps.json
+C:\PuProjects\tgbyebye\tgbyebye\bin\Release\net8.0\tgbyebye.runtimeconfig.json
+C:\PuProjects\tgbyebye\tgbyebye\bin\Release\net8.0\tgbyebye.dll
+C:\PuProjects\tgbyebye\tgbyebye\bin\Release\net8.0\tgbyebye.pdb
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.GeneratedMSBuildEditorConfig.editorconfig
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.AssemblyInfoInputs.cache
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.AssemblyInfo.cs
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.csproj.CoreCompileInputs.cache
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.dll
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\refint\tgbyebye.dll
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.pdb
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\tgbyebye.genruntimeconfig.cache
+C:\PuProjects\tgbyebye\tgbyebye\obj\Release\net8.0\ref\tgbyebye.dll
